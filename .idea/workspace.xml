@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e5fc1c1a-e80b-4c23-9745-81e2773d09fb" name="更改" comment="init: first commit">
+      <change afterPath="$PROJECT_DIR$/.env.development" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env.production" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.stylelintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commitlint.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/plugin/arcoResolver.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/plugin/arcoStyleImport.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/plugin/compress.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/plugin/imagemin.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/plugin/visualizer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/utils/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/vite.config.base.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/vite.config.dev.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/vite.config.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/dashboard.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/form.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/interceptor.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/list.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/message.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/profile.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/user-center.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/user.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/visualization.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/login-banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/style/breakpoint.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/style/global.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/world.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/breadcrumb/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/chart/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/footer/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/global-setting/block.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/global-setting/form-wrapper.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/global-setting/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/menu/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/menu/use-menu-tree.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/message-box/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/message-box/list.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/message-box/locale/en-US.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/message-box/locale/zh-CN.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/navbar/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/tab-bar/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/tab-bar/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/tab-bar/tab-item.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/directive/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/directive/permission/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/chart-option.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/loading.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/locale.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/permission.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/request.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/responsive.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/themes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/user.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/visible.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layout/default-layout.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layout/page-layout.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/locale/en-US.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/locale/en-US/settings.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/locale/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/locale/zh-CN.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/locale/zh-CN/settings.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mock/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mock/message-box.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mock/user.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router/app-menus/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router/constants.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router/guard/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router/guard/permission.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router/guard/userLoginInfo.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router/routes/base.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router/routes/externalModules/arco.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router/routes/externalModules/faq.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router/routes/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router/routes/modules/dashboard.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router/routes/modules/exception.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router/routes/modules/form.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router/routes/modules/list.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router/routes/modules/profile.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router/routes/modules/result.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router/routes/modules/user.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router/routes/modules/visualization.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router/routes/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router/typings.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/modules/app/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/modules/app/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/modules/tab-bar/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/modules/tab-bar/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/modules/user/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/modules/user/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/echarts.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/global.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/mock.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/auth.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/env.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/event.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/is.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/monitor.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/route-listener.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/setup-mock.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/dashboard/monitor/components/chat-item.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/dashboard/monitor/components/chat-list.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/dashboard/monitor/components/chat-panel.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/dashboard/monitor/components/data-statistic-list.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/dashboard/monitor/components/data-statistic.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/dashboard/monitor/components/quick-operation.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/dashboard/monitor/components/studio-information.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/dashboard/monitor/components/studio-status.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/dashboard/monitor/components/studio.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/dashboard/monitor/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/dashboard/monitor/locale/en-US.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/dashboard/monitor/locale/zh-CN.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/dashboard/monitor/mock.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/dashboard/workplace/components/announcement.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/dashboard/workplace/components/banner.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/dashboard/workplace/components/carousel.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/dashboard/workplace/components/categories-percent.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/dashboard/workplace/components/content-chart.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/dashboard/workplace/components/data-panel.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/dashboard/workplace/components/docs.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/dashboard/workplace/components/popular-content.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/dashboard/workplace/components/quick-operation.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/dashboard/workplace/components/recently-visited.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/dashboard/workplace/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/dashboard/workplace/locale/en-US.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/dashboard/workplace/locale/zh-CN.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/dashboard/workplace/mock.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/exception/403/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/exception/403/locale/en-US.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/exception/403/locale/zh-CN.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/exception/404/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/exception/404/locale/en-US.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/exception/404/locale/zh-CN.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/exception/500/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/exception/500/locale/en-US.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/exception/500/locale/zh-CN.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/form/group/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/form/group/locale/en-US.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/form/group/locale/zh-CN.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/form/step/components/base-info.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/form/step/components/channel-info.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/form/step/components/success.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/form/step/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/form/step/locale/en-US.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/form/step/locale/zh-CN.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/form/step/mock.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/list/card/components/card-wrap.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/list/card/components/quality-inspection.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/list/card/components/rules-preset.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/list/card/components/the-service.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/list/card/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/list/card/locale/en-US.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/list/card/locale/zh-CN.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/list/card/mock.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/list/search-table/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/list/search-table/locale/en-US.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/list/search-table/locale/zh-CN.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/list/search-table/mock.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/login/components/banner.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/login/components/login-form.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/login/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/login/locale/en-US.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/login/locale/zh-CN.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/not-found/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/profile/basic/components/operation-log.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/profile/basic/components/profile-item.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/profile/basic/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/profile/basic/locale/en-US.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/profile/basic/locale/zh-CN.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/profile/basic/mock.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/redirect/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/result/error/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/result/error/locale/en-US.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/result/error/locale/zh-CN.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/result/success/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/result/success/locale/en-US.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/result/success/locale/zh-CN.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/user/info/components/latest-activity.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/user/info/components/latest-notification.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/user/info/components/my-project.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/user/info/components/my-team.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/user/info/components/user-info-header.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/user/info/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/user/info/locale/en-US.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/user/info/locale/zh-CN.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/user/info/mock.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/user/setting/components/basic-information.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/user/setting/components/certification-records.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/user/setting/components/certification.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/user/setting/components/enterprise-certification.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/user/setting/components/security-settings.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/user/setting/components/user-panel.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/user/setting/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/user/setting/locale/en-US.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/user/setting/locale/zh-CN.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/user/setting/mock.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/visualization/data-analysis/components/chain-item.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/visualization/data-analysis/components/content-period-analysis.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/visualization/data-analysis/components/content-publish-ratio.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/visualization/data-analysis/components/popular-author.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/visualization/data-analysis/components/public-opinion.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/visualization/data-analysis/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/visualization/data-analysis/locale/en-US.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/visualization/data-analysis/locale/zh-CN.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/visualization/data-analysis/mock.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/visualization/multi-dimension-data-analysis/components/chain-item.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/visualization/multi-dimension-data-analysis/components/content-publishing-source.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/visualization/multi-dimension-data-analysis/components/content-type-distribution.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/visualization/multi-dimension-data-analysis/components/data-chain-growth.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/visualization/multi-dimension-data-analysis/components/data-overview.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/visualization/multi-dimension-data-analysis/components/user-actions.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/visualization/multi-dimension-data-analysis/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/visualization/multi-dimension-data-analysis/locale/en-US.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/visualization/multi-dimension-data-analysis/locale/zh-CN.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/visualization/multi-dimension-data-analysis/mock.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;xr1627119275&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/arco-design/arco-design-pro-vue/&quot;,
+    &quot;accountId&quot;: &quot;18acd5f5-d5cd-4875-8bcd-7499c02c7a97&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2pZQhJrHn0pEr3plzSJsgLT2SGc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.stylelint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.stylelint": "C:\\Users\\16271\\WebstormProjects\\arco-design-pro-vue\\arco-design-pro-vite\\node_modules\\stylelint",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "pnpm",
+    "prettierjs.PrettierConfiguration.Package": "C:\\Users\\16271\\WebstormProjects\\arco-design-pro-vue\\arco-design-pro-vite\\node_modules\\prettier",
+    "ts.external.directory.path": "C:\\Users\\16271\\WebstormProjects\\arco-design-pro-vue\\arco-design-pro-vite\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-WS-242.23726.96" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="e5fc1c1a-e80b-4c23-9745-81e2773d09fb" name="更改" comment="" />
+      <created>1732971235870</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732971235870</updated>
+      <workItem from="1732971237030" duration="525000" />
+      <workItem from="1732973575764" duration="490000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="init: first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init: first commit" />
+  </component>
+</project>
